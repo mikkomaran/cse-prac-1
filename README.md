@@ -1,2 +1,2 @@
 # cse-prac-1
-##Mikko Maran
+Mikko Maran
